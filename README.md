@@ -1,4 +1,4 @@
 GitWorkFlow
 ===========
 
-Test repo for git workflow
+Hello new text. Test repo for git workflow
